@@ -45,6 +45,7 @@ public class User implements Serializable {
 		this.role = role;
 	}
 //first comment
+// second commit
 
 	public User(Long id, String firstName, String lastName, Date dateNaissance, Role role) {
 		super();
